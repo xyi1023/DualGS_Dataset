@@ -1,7 +1,7 @@
 # DualGS_Dataset
 The dataset of the paper "DualGS: Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos".
 
-## HiFi4G: High-Fidelity Human Performance Rendering via Compact Gaussian Splatting
+## DualGS: Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos
 
 **[Yuheng Jiang](https://nowheretrix.github.io/), [Zhehao Shen](https://github.com/moqiyinlun), [Penghao Wang](https://authoritywang.github.io/), Zhuo Su, [Yu Hong](https://github.com/xyi1023), [Yingliang Zhang](https://cn.linkedin.com/in/yingliangzhang), [Jingyi Yu](http://www.yu-jingyi.com/), [Lan Xu](http://xu-lan.com/).** 
 
