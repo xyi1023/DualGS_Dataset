@@ -36,17 +36,17 @@ For any further information or any special use request, please contact the autho
 
 ## IX. ACCEPTANCE OF CITATION
 
-Any use whatsoever of this dataset and its associated software shall constitute your acceptance of the terms  of this agreement. By using the dataset and its associated software, you agree to cite the papers of the  authors, in any of your publications by you and your collaborators that make any use of the dataset, in the  following format (NOTICE THAT CITING THE DATASET URL INSTEAD OF THE PUBLICATIONS, WOULD NOT BE  COMPLIANT WITH THIS LICENSE AGREEMENT): Jiang, Yuheng and Shen, Zhehao and Wang, Penghao and Su, Zhuo and  Hong, Yu and Zhang, Yingliang and  Yu, Jingyi and Xu, Lan  "HiFi4G: High-Fidelity Human Performance Rendering via Compact Gaussian Splatting". IEEE / CVF Computer Vision and Pattern Recognition  Conference (CVPR), 2024.
+Any use whatsoever of this dataset and its associated software shall constitute your acceptance of the terms  of this agreement. By using the dataset and its associated software, you agree to cite the papers of the  authors, in any of your publications by you and your collaborators that make any use of the dataset, in the  following format (NOTICE THAT CITING THE DATASET URL INSTEAD OF THE PUBLICATIONS, WOULD NOT BE  COMPLIANT WITH THIS LICENSE AGREEMENT): Jiang, Yuheng and Shen, Zhehao and Hong, Yu and Guo, Chengcheng and Wu, Yize and Zhang, Yingliang and Yu, Jingyi and Xu, Lan  "DualGS: Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos". ACM Transactions on Graphics (TOG), 2024.
 
 ```
-@InProceedings{Jiang_2024_CVPR,
-    author = {Jiang, Yuheng and Shen, Zhehao and Wang, Penghao and Su, Zhuo and Hong, Yu and Zhang, Yingliang and Yu, Jingyi and Xu, Lan}, 
-    title = {HiFi4G: High-Fidelity Human Performance Rendering via Compact Gaussian Splatting}, 
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
-    month = {June}, 
-    year = {2024}, 
-    pages = {19734-19745} 
- }
+@misc{jiang2024robust,
+    title={Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos},
+    author={Yuheng Jiang and Zhehao Shen and Yu Hong and Chengcheng Guo and Yize Wu and Yingliang Zhang and Jingyi Yu and Lan Xu},
+    year={2024},
+    eprint={2409.08353},
+    archivePrefix={arXiv},
+    primaryClass={cs.GR}
+}
 ```
 
 ## X. SIGNATURE

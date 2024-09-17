@@ -7,7 +7,7 @@ The dataset of the paper "DualGS: Robust Dual Gaussian Splatting for Immersive H
 
 *ACM SIGGRAPH ASIA 2024*
 
-[[Project Page]](https://nowheretrix.github.io/HiFi4G/) [[Paper Link]](https://arxiv.org/abs/2312.03461)
+[[Project Page]](https://nowheretrix.github.io/DualGS/) [[Paper Link]](https://export.arxiv.org/abs/2409.08353)
 
 ![dataset_description](./imgs/gallery.png)
 
@@ -44,14 +44,14 @@ Once the license agreement is signed, we will give access to the data.
 If you use this dataset for your research, please cite our paper:
 
 ```
-@InProceedings{Jiang_2024_CVPR,
- author = {Jiang, Yuheng and Shen, Zhehao and Wang, Penghao and Su, Zhuo and Hong, Yu and Zhang, Yingliang and Yu, Jingyi and Xu, Lan}, 
- title = {HiFi4G: High-Fidelity Human Performance Rendering via Compact Gaussian Splatting}, 
- booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
- month = {June}, 
- year = {2024}, 
- pages = {19734-19745} 
- }
+@misc{jiang2024robust,
+    title={Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos},
+    author={Yuheng Jiang and Zhehao Shen and Yu Hong and Chengcheng Guo and Yize Wu and Yingliang Zhang and Jingyi Yu and Lan Xu},
+    year={2024},
+    eprint={2409.08353},
+    archivePrefix={arXiv},
+    primaryClass={cs.GR}
+}
 ```
 
 
