@@ -13,7 +13,7 @@ The dataset of the paper "DualGS: Robust Dual Gaussian Splatting for Immersive H
 
 ### Description
 
-We have currently uploaded 6 sample cases of data including a diverse range of musical instruments from both Western and Eastern traditions. Meanwhile, 3 single-frame data have been uploaded as examples, which you can access without signing the license agreement.
+We have currently uploaded 7 sample cases of data including a diverse range of musical instruments from both Western and Eastern traditions. Meanwhile, 3 single-frame data have been uploaded as examples, which you can access without signing the license agreement.
 
 To run algorithms on single-frame data, you need to move the calibration files. For `image_white` under instant-ngp format, rename the frame folder to `images` and move `transforms.json` to the same directory as `images`. For `image_white_undistortion` in colmap format, rename the frame folder to `images` and move the `sparse/0` folder to the same directory as `images`.
 

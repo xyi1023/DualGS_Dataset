@@ -36,7 +36,7 @@ For any further information or any special use request, please contact the autho
 
 ## IX. ACCEPTANCE OF CITATION
 
-Any use whatsoever of this dataset and its associated software shall constitute your acceptance of the terms  of this agreement. By using the dataset and its associated software, you agree to cite the papers of the  authors, in any of your publications by you and your collaborators that make any use of the dataset, in the  following format (NOTICE THAT CITING THE DATASET URL INSTEAD OF THE PUBLICATIONS, WOULD NOT BE  COMPLIANT WITH THIS LICENSE AGREEMENT): Jiang, Yuheng and Shen, Zhehao and Hong, Yu and Guo, Chengcheng and Wu, Yize and Zhang, Yingliang and Yu, Jingyi and Xu, Lan  "DualGS: Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos". ACM Transactions on Graphics (TOG), 2024.
+Any use whatsoever of this dataset and its associated software shall constitute your acceptance of the terms  of this agreement. By using the dataset and its associated software, you agree to cite the papers of the  authors, in any of your publications by you and your collaborators that make any use of the dataset, in the  following format (NOTICE THAT CITING THE DATASET URL INSTEAD OF THE PUBLICATIONS, WOULD NOT BE  COMPLIANT WITH THIS LICENSE AGREEMENT): Jiang, Yuheng and Shen, Zhehao and Hong, Yu and Guo, Chengcheng and Wu, Yize and Zhang, Yingliang and Yu, Jingyi and Xu, Lan  "DualGS: Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos". ACM Siggraph Asia, 2024.
 
 ```
 @misc{jiang2024robust,
