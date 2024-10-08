@@ -39,13 +39,11 @@ For any further information or any special use request, please contact the autho
 Any use whatsoever of this dataset and its associated software shall constitute your acceptance of the terms  of this agreement. By using the dataset and its associated software, you agree to cite the papers of the  authors, in any of your publications by you and your collaborators that make any use of the dataset, in the  following format (NOTICE THAT CITING THE DATASET URL INSTEAD OF THE PUBLICATIONS, WOULD NOT BE  COMPLIANT WITH THIS LICENSE AGREEMENT): Jiang, Yuheng and Shen, Zhehao and Hong, Yu and Guo, Chengcheng and Wu, Yize and Zhang, Yingliang and Yu, Jingyi and Xu, Lan  "DualGS: Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos". ACM Siggraph Asia, 2024.
 
 ```
-@misc{jiang2024robust,
-    title={Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos},
-    author={Yuheng Jiang and Zhehao Shen and Yu Hong and Chengcheng Guo and Yize Wu and Yingliang Zhang and Jingyi Yu and Lan Xu},
-    year={2024},
-    eprint={2409.08353},
-    archivePrefix={arXiv},
-    primaryClass={cs.GR}
+@article{jiang2024robust,
+  title={Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos},
+  author={Jiang, Yuheng and Shen, Zhehao and Hong, Yu and Guo, Chengcheng and Wu, Yize and Zhang, Yingliang and Yu, Jingyi and Xu, Lan},
+  journal={arXiv preprint arXiv:2409.08353},
+  year={2024}
 }
 ```
 

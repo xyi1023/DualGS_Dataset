@@ -44,13 +44,11 @@ Once the license agreement is signed, we will give access to the data.
 If you use this dataset for your research, please cite our paper:
 
 ```
-@misc{jiang2024robust,
-    title={Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos},
-    author={Yuheng Jiang and Zhehao Shen and Yu Hong and Chengcheng Guo and Yize Wu and Yingliang Zhang and Jingyi Yu and Lan Xu},
-    year={2024},
-    eprint={2409.08353},
-    archivePrefix={arXiv},
-    primaryClass={cs.GR}
+@article{jiang2024robust,
+  title={Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos},
+  author={Jiang, Yuheng and Shen, Zhehao and Hong, Yu and Guo, Chengcheng and Wu, Yize and Zhang, Yingliang and Yu, Jingyi and Xu, Lan},
+  journal={arXiv preprint arXiv:2409.08353},
+  year={2024}
 }
 ```
 
