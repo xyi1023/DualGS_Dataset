@@ -7,7 +7,7 @@ The dataset of the paper "DualGS: Robust Dual Gaussian Splatting for Immersive H
 
 *ACM SIGGRAPH ASIA 2024*
 
-[[Project Page]](https://nowheretrix.github.io/DualGS/) [[Paper Link]](https://export.arxiv.org/abs/2409.08353)
+[[Project Page]](https://nowheretrix.github.io/DualGS/) [[Paper Link]](https://export.arxiv.org/abs/2409.08353) [[Dataset Link]](https://cvrmkura-my.sharepoint.com/:f:/g/personal/sdjnes_cvrmkura_onmicrosoft_com/Et4niDRbacBHgKgBOlSDxZEB3VBp24gkh9DEpxaiAbk3sg?e=8B9lzi)
 
 ![dataset_description](./imgs/gallery.png)
 
@@ -30,14 +30,7 @@ The overall file structure is as follows:
 │    └── colmap/sparse/0   - Camera extrinsics and intrinsics in Gaussian Splatting format.
 ```
 ### Download our dataset
-
-The dataset is available on Onedrive and requires permission to access it. Please carefully read, fill in the [license form](./license.pdf), and send it to Yuheng Jiang (jiangyh2@shanghaitech.edu.cn) and cc Lan Xu(xulan1@shanghaitech.edu.cn) to request access.
-
-By requesting access to the content, you acknowledge that you have read this agreement, understand it, and agree to be bound by its terms and conditions. This agreement constitutes a legal and binding agreement between you and the provider of the protected system or content. The Virtual Reality and Visual Computing Center is the only owner of all intellectual property rights, including copyright, of DualGS Dataset, and VRVC reserves the right to terminate your access to the dataset at any time.
-
-Notes:
-
-Once the license agreement is signed, we will give access to the data.
+The dataset is publicly accessible at [Link](https://cvrmkura-my.sharepoint.com/:f:/g/personal/sdjnes_cvrmkura_onmicrosoft_com/Et4niDRbacBHgKgBOlSDxZEB3VBp24gkh9DEpxaiAbk3sg?e=8B9lzi). It is authorized for non-commercial use only. For commercial use, please contact Yuheng Jiang (jiangyh2@shanghaitech.edu.cn) and cc Lan Xu(xulan1@shanghaitech.edu.cn) to obtain necessary permissions.
 
 ### Citation
 
