@@ -7,7 +7,7 @@ The dataset of the paper "DualGS: Robust Dual Gaussian Splatting for Immersive H
 
 *ACM SIGGRAPH ASIA 2024*
 
-[[Project Page]](https://nowheretrix.github.io/DualGS/) [[Paper Link]](https://export.arxiv.org/abs/2409.08353) [[Dataset Link]](https://cvrmkura-my.sharepoint.com/:f:/g/personal/sdjnes_cvrmkura_onmicrosoft_com/Et4niDRbacBHgKgBOlSDxZEB3VBp24gkh9DEpxaiAbk3sg?e=8B9lzi)
+[[Project Page]](https://nowheretrix.github.io/DualGS/) [[Paper Link]](https://export.arxiv.org/abs/2409.08353) [[Dataset Link]](https://huggingface.co/datasets/moqiyinlun1/HiFiHuman/tree/main/DualGS_Dataset)
 
 ![dataset_description](./imgs/gallery.png)
 
@@ -30,7 +30,7 @@ The overall file structure is as follows:
 │    └── colmap/sparse/0   - Camera extrinsics and intrinsics in Gaussian Splatting format.
 ```
 ### Download our dataset
-The dataset is publicly accessible at [Link](https://cvrmkura-my.sharepoint.com/:f:/g/personal/sdjnes_cvrmkura_onmicrosoft_com/Et4niDRbacBHgKgBOlSDxZEB3VBp24gkh9DEpxaiAbk3sg?e=8B9lzi). It is authorized for non-commercial use only. For commercial use, please contact Yuheng Jiang (jiangyh2@shanghaitech.edu.cn) and cc Lan Xu(xulan1@shanghaitech.edu.cn) to obtain necessary permissions.
+The dataset is publicly accessible at [Link](https://huggingface.co/datasets/moqiyinlun1/HiFiHuman/tree/main/DualGS_Dataset). It is authorized for non-commercial use only. For commercial use, please contact Yuheng Jiang (jiangyh2@shanghaitech.edu.cn) and cc Lan Xu(xulan1@shanghaitech.edu.cn) to obtain necessary permissions.
 
 ### Citation
 
